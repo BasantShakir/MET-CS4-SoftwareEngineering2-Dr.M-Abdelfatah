@@ -1,1 +1,116 @@
-
+االسم: بسنت شاكر قاسم الكيالني 
+ Computer Science:الشعبة
+ سكشن:2 
+Introduction :
+Developed in 2001, the agile software development methodologies were based on the 
+most revered agile manifesto that laid down the principles and core practices. Before 
+.understanding the agile methodologies definition, it is pertinent to know what agile is
+Agile is a set of techniques followed by a team to administer a project or plan by dividing it 
+into various stages with continuous collaboration with customers. There is constant 
+monitoring at every phase of the software development of the project. The agile 
+methodology advantages are that both the development plus testing actions are parallel 
+ .and synchronized, unlike the conventional waterfall methodology
+The definition of AgileMethodology
+The agile methodology is one of the most straightforward ways to turn a concept and 
+various requirements into workable software solutions. The Agile methodology is an 
+iterative and incremental approach to software development that emphasizes continuous 
+planning, understanding, updating, team collaboration, development, and delivery. The 
+agile method is broken down into individual teams’ models, allowing for more adaptability 
+ .to changes
+The agile process begins with customers specifying the end uses of the final product and 
+the types of problems the final product seeks to solve. It is guided by the ideals of giving 
+value and engaging with stakeholders. This activity aids the project development team 
+.address and clarifying the customer’s expectations and requirements
+The selected teams prepare and work on a comprehensive process that includes planning, 
+implementation, and evaluation as soon as the project begins. Errors are resolved at the 
+project’s intermediate stage because the development process is iterative. This method 
+ .allows the final supplied product to better match the customer’s needs
+Important Types Of Agile Methodology 6
+There are various types of agile methodology available in the market to suit every project’s 
+wants. Although there are different agile methodologies, everything is based on the main 
+.principles in the agile manifesto
+Therefore, every framework or behavior that adapts these principles is named Agile, and, 
+notwithstanding the different types of agile methodologies a team implements, the agile 
+methodology benefits can be copiously apprehended only with the collaboration of all the 
+ .involved parties
+The below agile methodologies list comprises of famous types of agile methodology that 
+ :one can opt from
+Kanban )1
+Originating from the Japanese language, the translation of the word ‘Kanban’ is “visual 
+board or signboard” and is connected to the concept of “just in time”! Initially, the Kanban 
+concept was introduced as a lean manufacturing system and slowly drove its way to agile 
+software development teams. This method uses visual methods for developing and 
+ .managing projects
+Projects through Kanban are overseen with the help of the Kanban Board, which is divided 
+into columns to depict the process flow of the software development. This helps in 
+increasing visibility teams as the teams can see the progress through every stage of 
+!”development and prepare for the upcoming tasks to deliver the product “just in time
+This method requires thorough interaction and transparency to enable the team members 
+to be equipped with the right stage of the development at any time and have a cohesive 
+.flow of work at all times
+Scrum )2
+One of the most popular agile methodology examples is the agile scrum development 
+methodology, which is depicted by various cycles of development. Similar to Kanban, 
+Scrum breaks down the development phases into stages or cycles called ‘sprints’. The 
+development time for each sprint is maximized and dedicated, thereby managing only one 
+ .sprint at a time
+Scrum and agile methodologies focus on continuous deliverables, and thus this method lets 
+designers adjust priorities to ensure that any incomplete or overdue sprints get more 
+ .attention
+Scrum Team has exclusive project roles such as a scrum master and a product owner with 
+constant communications on the daily scrum where the activities are harmonized to devise 
+ .the best way to implement the sprint
+Extreme Programming (XP) )3
+Extreme Programming (XP) is a methodology that emphasizes teamwork, communication, 
+and feedback. It focuses on constant development and customer satisfaction. Similar to 
+scrum, this method also uses sprints or short development cycles. This is developed by a 
+ .team to create a productive and highly efficient environment
+Extreme Programming technique is very supportive in a situation of constant and varying 
+demands from the customers. It motivates the developers to accept changes in the 
+customer’s demands, even if they pop-up in an advanced phase of the development 
+ .process
+In Extreme Programming, the project is tested from the initial stages by collecting 
+feedback that progresses the output of the system. This also presents a spot check to 
+.implement easily any customer requirements
+Crystal )4
+Introduced by Mr. Alistair Cockburn, one of the monumental persons in formulating the 
+Agile manifesto for software development, Crystal is a group of smaller agile development 
+methodologies comprising of Crystal Yellow, Crystal Clear, Crystal Red, Crystal Orange, and 
+more. Each has its peculiar and exclusive framework that is characterized by factors such 
+as system criticality, team size, and project priorities. Depending on the nature of the 
+project or system criticality such as Comfort (C), Essential Money (E), Discretionary Money 
+ .(D), and Life (L), the kind of crystal agile methodology is chosen
+Similar to other methodologies of Agile, Crystal also addresses prompt delivery of 
+software, regularity, less administration with high involvement of users, and customer 
+satisfaction. The Crystal family advocates that each system or project is inimitable and 
+necessitates the solicitation of diverse practices, processes, and policies to achieve the best 
+results, earning the name of the most lightweight methods of agile methodology
+Feature Driven Development (FDD)
+Feature Driven Development (FDD) was first introduced in 1997 by Jeff De Luca when he 
+worked on an application development project for the largest Singapore bank. FDD is an 
+incremental process for software development and is a method of agile development to 
+develop software. FDD integrates a variety of widely-respected best practices into an 
+integrated whole. These practices are guided by the client-valued functional (feature) 
+standpoint. The primary purpose of FDD is to provide real-time, functional software 
+quickly. The benefit of FDD is that it can scale for large teams thanks to the idea of ‘just 
+enough design initially’ (JEDI). Thanks to its feature-centric design process, it’s a fantastic 
+method to control rapid, incremental, and complex projects. It is comprised of five 
+ :fundamental tasks
+Development of an overall model 
+Building of a feature list 
+Planning by feature 
+Designing by feature 
+.Building by feature 
+Dynamic Systems Development Method (DSDM) )6
+To address the need for a standard industry charter for the swift delivery of software, the 
+Dynamic Systems Development Method (DSDM) was developed. DSDM gives a 
+comprehensive structure that is defined and modified to create a plan, execute, manage, 
+and scale the procedure of software development. Based on a business-driven approach 
+and eight principles, the DSDM believes that modifications to the project are always 
+.expected, and quality with timely delivery must never be negotiated
+Conclusion
+A dynamic approach is required in choosing the right agile methodology among the 
+different types of agile methodology. The advantages and disadvantages of agile 
+methodology must always be considered to choose the framework for one’s business to 
+entice talent and convey remarkable digital experiences in this aggressively competitive 
+.market
